@@ -38,8 +38,7 @@ namespace Toma_de_decisiones
             this.flowMatrices = new System.Windows.Forms.FlowLayoutPanel();
             ((System.ComponentModel.ISupportInitialize)(this.dgvEstrategias)).BeginInit();
             this.SuspendLayout();
-            System.ComponentModel.ComponentResourceManager resForm1 = new System.ComponentModel.ComponentResourceManager(typeof(Registro));
-            this.BackgroundImage = ((System.Drawing.Image)(resForm1.GetObject("$this.BackgroundImage")));
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             // 
             // label2
@@ -87,6 +86,7 @@ namespace Toma_de_decisiones
             this.btnAceptar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAceptar.FlatAppearance.BorderSize = 0;
             this.btnAceptar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
             // btnMatriz
             // 
@@ -102,6 +102,7 @@ namespace Toma_de_decisiones
             this.btnMatriz.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMatriz.FlatAppearance.BorderSize = 0;
             this.btnMatriz.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnMatriz.Click += new System.EventHandler(this.btnMatriz_Click);
             // 
             // txtDecision
             // 
@@ -129,6 +130,7 @@ namespace Toma_de_decisiones
             this.btnGenerarReporte.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGenerarReporte.FlatAppearance.BorderSize = 0;
             this.btnGenerarReporte.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnGenerarReporte.Click += new System.EventHandler(this.btnGenerarReporte_Click);
             // 
             // flowMatrices
             // 

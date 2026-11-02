@@ -50,7 +50,6 @@ C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decis
 C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\itextsharp.dll
 C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\itextsharp.xml
 C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.csproj.AssemblyReference.cache
-C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.exe.config
 C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Registro.resources
 C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.carga.resources
 C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Def_objetivos.resources
@@ -64,3 +63,4 @@ C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decis
 C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de .5FA04510.Up2Date
 C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.exe
 C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.pdb
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.exe.config

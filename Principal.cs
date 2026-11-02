@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -21,7 +21,7 @@ namespace Toma_de_decisiones
             this.ShowInTaskbar = true;
 
             // Cargar el icono
-            string rutaIcono = Application.StartupPath + "\\img\\icono.png";
+            string rutaIcono = Application.StartupPath + "\\img\\icono_alpaca.png";
             if (File.Exists(rutaIcono))
             {
                 this.Icon = new Icon(rutaIcono);
