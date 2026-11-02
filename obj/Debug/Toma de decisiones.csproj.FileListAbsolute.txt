@@ -1,0 +1,66 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.exe.manifest
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.application
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\bin\Debug\itextsharp.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\bin\Debug\itextsharp.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Registro.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.carga.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Def_objetivos.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.ingreso_Estrategias.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Principal.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.exe.manifest
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.application
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.csprojResolveAssemblyReference.cache
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.exe.config
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.exe.manifest
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.application
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.exe
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.pdb
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\BouncyCastle.Crypto.dll
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\itextsharp.dll
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\itextsharp.xml
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.csproj.AssemblyReference.cache
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.exe.config
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Registro.resources
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.carga.resources
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Def_objetivos.resources
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.ingreso_Estrategias.resources
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Principal.resources
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Properties.Resources.resources
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.csproj.GenerateResource.cache
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.csproj.CoreCompileInputs.cache
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.exe.manifest
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.application
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de .5FA04510.Up2Date
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.exe
+G:\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.pdb
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.exe.config
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.exe.manifest
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.application
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.exe
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\Toma de decisiones.pdb
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\itextsharp.dll
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\bin\Debug\itextsharp.xml
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.csproj.AssemblyReference.cache
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.exe.config
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Registro.resources
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.carga.resources
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Def_objetivos.resources
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.ingreso_Estrategias.resources
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Principal.resources
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma_de_decisiones.Properties.Resources.resources
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.csproj.GenerateResource.cache
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.csproj.CoreCompileInputs.cache
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.exe.manifest
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.application
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de .5FA04510.Up2Date
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.exe
+C:\Users\Pabo Parco\Documents\INGEIIHERRAMIENTA\TOMA DE DECISIONES\Toma de decisiones\Toma de decisiones\obj\Debug\Toma de decisiones.pdb
